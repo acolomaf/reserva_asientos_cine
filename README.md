@@ -16,4 +16,4 @@ Este proyecto desarrollado en Phyton, está direccionado directamente a la reser
 1. Tener instalado Phyton en el sistema
 2. Clona o descarga este repositorio
    ```bash
-   git clone 
+   git clone https://github.com/acolomaf/reserva_asientos_cine.git
